@@ -67,9 +67,9 @@
 </layers>
 <board>
 <plain>
-<wire x1="0" y1="0" x2="180.3227193366788" y2="0" width="0" layer="20"/>
-<wire x1="180.3227193366788" y1="0" x2="180.3227193366788" y2="64.91614062413532" width="0" layer="20"/>
-<wire x1="180.3227193366788" y1="64.91614062413532" x2="0" y2="64.91614062413532" width="0" layer="20"/>
+<wire x1="0" y1="0" x2="180.14165075278493" y2="0" width="0" layer="20"/>
+<wire x1="180.14165075278493" y1="0" x2="180.14165075278493" y2="64.91614062413532" width="0" layer="20"/>
+<wire x1="180.14165075278493" y1="64.91614062413532" x2="0" y2="64.91614062413532" width="0" layer="20"/>
 <wire x1="0" y1="64.91614062413532" x2="0" y2="0" width="0" layer="20"/>
 </plain>
 <libraries>
@@ -314,80 +314,80 @@ design rules under a new name.
 </pass>
 </autorouter>
 <elements>
-<element name="R8" library="Tinkercad" package="RESAD1016W63L850D250B" package3d_urn="urn:adsk.eagle:package:31513020/2" value="1k" x="161.6627" y="8.97" rot="R90" smashed="yes"/>
-<element name="S4" library="Tinkercad" package="SWITCH-MOMENTARY-PTH-6.5MM" package3d_urn="urn:adsk.eagle:package:32246662/3" value="SWITCH_MOMENTARY" x="159.1227" y="25.48" rot="R90" smashed="yes"/>
-<element name="S3" library="Tinkercad" package="SWITCH-MOMENTARY-PTH-6.5MM" package3d_urn="urn:adsk.eagle:package:32246662/3" value="SWITCH_MOMENTARY" x="148.9627" y="25.48" rot="R90" smashed="yes"/>
-<element name="R7" library="Tinkercad" package="RESAD1016W63L850D250B" package3d_urn="urn:adsk.eagle:package:31513020/2" value="1k" x="151.5027" y="8.97" rot="R90" smashed="yes"/>
-<element name="S2" library="Tinkercad" package="SWITCH-MOMENTARY-PTH-6.5MM" package3d_urn="urn:adsk.eagle:package:32246662/3" value="SWITCH_MOMENTARY" x="138.8027" y="25.48" rot="R90" smashed="yes"/>
-<element name="R6" library="Tinkercad" package="RESAD1016W63L850D250B" package3d_urn="urn:adsk.eagle:package:31513020/2" value="1k" x="141.3427" y="8.97" rot="R90" smashed="yes"/>
-<element name="S1" library="Tinkercad" package="SWITCH-MOMENTARY-PTH-6.5MM" package3d_urn="urn:adsk.eagle:package:32246662/3" value="SWITCH_MOMENTARY" x="128.6427" y="25.48" rot="R90" smashed="yes"/>
-<element name="R5" library="Tinkercad" package="RESAD1016W63L850D250B" package3d_urn="urn:adsk.eagle:package:31513020/2" value="1k" x="131.1827" y="8.97" rot="R90" smashed="yes"/>
-<element name="R4" library="Tinkercad" package="RESAD1016W63L850D250B" package3d_urn="urn:adsk.eagle:package:31513020/2" value="1k" x="118.4827" y="8.97" rot="R90" smashed="yes"/>
-<element name="R2" library="Tinkercad" package="RESAD1016W63L850D250B" package3d_urn="urn:adsk.eagle:package:31513020/2" value="1k" x="103.2427" y="8.97" rot="R90" smashed="yes"/>
-<element name="D4" library="Tinkercad" package="LEDRD254W60D565H860B_Y" package3d_urn="urn:adsk.eagle:package:16378506/2" value="YELLOW" x="119.7527" y="21.67" rot="R180" smashed="yes">
-<attribute name="CATEGORY" value="Opto-Electronic" x="119.7527" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="COLOR" value="" x="119.7527" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value="" x="119.7527" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER" value="" x="119.7527" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="" x="119.7527" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="OPERATING_TEMP" value="" x="119.7527" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="PART_STATUS" value="" x="119.7527" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="ROHS_COMPLIANT" value="" x="119.7527" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="SERIES" value="" x="119.7527" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="SUB-CATEGORY" value="LED" x="119.7527" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="THERMALLOSS" value="" x="119.7527" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="TYPE" value="" x="119.7527" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" value="LED_YELLOW" x="119.7527" y="21.67" size="1.778" layer="27" display="off"/>
+<element name="R8" library="Tinkercad" package="RESAD1016W63L850D250B" package3d_urn="urn:adsk.eagle:package:31513020/2" value="1k" x="161.4817" y="8.97" rot="R90" smashed="yes"/>
+<element name="S4" library="Tinkercad" package="SWITCH-MOMENTARY-PTH-6.5MM" package3d_urn="urn:adsk.eagle:package:32246662/3" value="SWITCH_MOMENTARY" x="158.9417" y="25.48" rot="R90" smashed="yes"/>
+<element name="S3" library="Tinkercad" package="SWITCH-MOMENTARY-PTH-6.5MM" package3d_urn="urn:adsk.eagle:package:32246662/3" value="SWITCH_MOMENTARY" x="148.7817" y="25.48" rot="R90" smashed="yes"/>
+<element name="R7" library="Tinkercad" package="RESAD1016W63L850D250B" package3d_urn="urn:adsk.eagle:package:31513020/2" value="1k" x="151.3217" y="8.97" rot="R90" smashed="yes"/>
+<element name="S2" library="Tinkercad" package="SWITCH-MOMENTARY-PTH-6.5MM" package3d_urn="urn:adsk.eagle:package:32246662/3" value="SWITCH_MOMENTARY" x="138.6217" y="25.48" rot="R90" smashed="yes"/>
+<element name="R6" library="Tinkercad" package="RESAD1016W63L850D250B" package3d_urn="urn:adsk.eagle:package:31513020/2" value="1k" x="141.1617" y="8.97" rot="R90" smashed="yes"/>
+<element name="S1" library="Tinkercad" package="SWITCH-MOMENTARY-PTH-6.5MM" package3d_urn="urn:adsk.eagle:package:32246662/3" value="SWITCH_MOMENTARY" x="128.4617" y="25.48" rot="R90" smashed="yes"/>
+<element name="R5" library="Tinkercad" package="RESAD1016W63L850D250B" package3d_urn="urn:adsk.eagle:package:31513020/2" value="1k" x="131.0017" y="8.97" rot="R90" smashed="yes"/>
+<element name="R4" library="Tinkercad" package="RESAD1016W63L850D250B" package3d_urn="urn:adsk.eagle:package:31513020/2" value="1k" x="118.3017" y="8.97" rot="R90" smashed="yes"/>
+<element name="R2" library="Tinkercad" package="RESAD1016W63L850D250B" package3d_urn="urn:adsk.eagle:package:31513020/2" value="1k" x="103.0617" y="8.97" rot="R90" smashed="yes"/>
+<element name="D4" library="Tinkercad" package="LEDRD254W60D565H860B_Y" package3d_urn="urn:adsk.eagle:package:16378506/2" value="YELLOW" x="119.5717" y="21.67" rot="R180" smashed="yes">
+<attribute name="CATEGORY" value="Opto-Electronic" x="119.5717" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="COLOR" value="" x="119.5717" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value="" x="119.5717" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="" x="119.5717" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="" x="119.5717" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="OPERATING_TEMP" value="" x="119.5717" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="PART_STATUS" value="" x="119.5717" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="ROHS_COMPLIANT" value="" x="119.5717" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="SERIES" value="" x="119.5717" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="SUB-CATEGORY" value="LED" x="119.5717" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="THERMALLOSS" value="" x="119.5717" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="TYPE" value="" x="119.5717" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" value="LED_YELLOW" x="119.5717" y="21.67" size="1.778" layer="27" display="off"/>
 </element>
-<element name="D2" library="Tinkercad" package="LEDRD254W60D565H860B_G" package3d_urn="urn:adsk.eagle:package:31997108/3" value="GREEN" x="104.5127" y="21.67" rot="R180" smashed="yes">
-<attribute name="CATEGORY" value="Opto-Electronic" x="104.5127" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="COLOR" value="" x="104.5127" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value="" x="104.5127" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER" value="" x="104.5127" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="" x="104.5127" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="OPERATING_TEMP" value="" x="104.5127" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="PART_STATUS" value="" x="104.5127" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="ROHS_COMPLIANT" value="" x="104.5127" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="SERIES" value="" x="104.5127" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="SUB-CATEGORY" value="LED" x="104.5127" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="THERMALLOSS" value="" x="104.5127" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="TYPE" value="" x="104.5127" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" value="LED_GREEN" x="104.5127" y="21.67" size="1.778" layer="27" display="off"/>
+<element name="D2" library="Tinkercad" package="LEDRD254W60D565H860B_G" package3d_urn="urn:adsk.eagle:package:31997108/3" value="GREEN" x="104.3317" y="21.67" rot="R180" smashed="yes">
+<attribute name="CATEGORY" value="Opto-Electronic" x="104.3317" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="COLOR" value="" x="104.3317" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value="" x="104.3317" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="" x="104.3317" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="" x="104.3317" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="OPERATING_TEMP" value="" x="104.3317" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="PART_STATUS" value="" x="104.3317" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="ROHS_COMPLIANT" value="" x="104.3317" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="SERIES" value="" x="104.3317" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="SUB-CATEGORY" value="LED" x="104.3317" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="THERMALLOSS" value="" x="104.3317" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="TYPE" value="" x="104.3317" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" value="LED_GREEN" x="104.3317" y="21.67" size="1.778" layer="27" display="off"/>
 </element>
 <element name="U1" library="Tinkercad" package="ARDUINO-UNO-R3-SHIELD" package3d_urn="urn:adsk.eagle:package:32092383/4" value="ARDUINO-UNO-R3-SHIELD" x="47.885" y="35.0711" rot="R270" smashed="yes"/>
-<element name="PIEZO1" library="Tinkercad" package="PIEZO" package3d_urn="urn:adsk.eagle:package:32623992/2" value="PIEZO" x="166.7427" y="22.94" rot="R-90" smashed="yes"/>
-<element name="D1" library="Tinkercad" package="LEDRD254W60D565H860B" package3d_urn="urn:adsk.eagle:package:16378508/2" value="RED" x="96.8927" y="21.67" rot="R180" smashed="yes">
-<attribute name="CATEGORY" value="Opto-Electronic" x="96.8927" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="COLOR" value="" x="96.8927" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value="" x="96.8927" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER" value="" x="96.8927" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="" x="96.8927" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="OPERATING_TEMP" value="" x="96.8927" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="PART_STATUS" value="" x="96.8927" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="ROHS_COMPLIANT" value="" x="96.8927" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="SERIES" value="" x="96.8927" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="SUB-CATEGORY" value="LED" x="96.8927" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="THERMALLOSS" value="" x="96.8927" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="TYPE" value="" x="96.8927" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" value="LED_RED" x="96.8927" y="21.67" size="1.778" layer="27" display="off"/>
+<element name="PIEZO1" library="Tinkercad" package="PIEZO" package3d_urn="urn:adsk.eagle:package:32623992/2" value="PIEZO" x="166.5617" y="22.94" rot="R-90" smashed="yes"/>
+<element name="D1" library="Tinkercad" package="LEDRD254W60D565H860B" package3d_urn="urn:adsk.eagle:package:16378508/2" value="RED" x="96.7117" y="21.67" rot="R180" smashed="yes">
+<attribute name="CATEGORY" value="Opto-Electronic" x="96.7117" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="COLOR" value="" x="96.7117" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value="" x="96.7117" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="" x="96.7117" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="" x="96.7117" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="OPERATING_TEMP" value="" x="96.7117" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="PART_STATUS" value="" x="96.7117" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="ROHS_COMPLIANT" value="" x="96.7117" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="SERIES" value="" x="96.7117" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="SUB-CATEGORY" value="LED" x="96.7117" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="THERMALLOSS" value="" x="96.7117" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="TYPE" value="" x="96.7117" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" value="LED_RED" x="96.7117" y="21.67" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R1" library="Tinkercad" package="RESAD1016W63L850D250B" package3d_urn="urn:adsk.eagle:package:31513020/2" value="1k" x="95.6227" y="8.97" rot="R90" smashed="yes"/>
-<element name="D3" library="Tinkercad" package="LEDRD254W60D565H860B_B" package3d_urn="urn:adsk.eagle:package:16378507/2" value="BLUE" x="112.1327" y="21.67" rot="R180" smashed="yes">
-<attribute name="CATEGORY" value="Opto-Electronic" x="112.1327" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="COLOR" value="" x="112.1327" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value="" x="112.1327" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER" value="" x="112.1327" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="" x="112.1327" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="OPERATING_TEMP" value="" x="112.1327" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="PART_STATUS" value="" x="112.1327" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="ROHS_COMPLIANT" value="" x="112.1327" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="SERIES" value="" x="112.1327" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="SUB-CATEGORY" value="LED" x="112.1327" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="THERMALLOSS" value="" x="112.1327" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="TYPE" value="" x="112.1327" y="21.67" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" value="LED_BLUE" x="112.1327" y="21.67" size="1.778" layer="27" display="off"/>
+<element name="R1" library="Tinkercad" package="RESAD1016W63L850D250B" package3d_urn="urn:adsk.eagle:package:31513020/2" value="1k" x="95.4417" y="8.97" rot="R90" smashed="yes"/>
+<element name="D3" library="Tinkercad" package="LEDRD254W60D565H860B_B" package3d_urn="urn:adsk.eagle:package:16378507/2" value="BLUE" x="111.9517" y="21.67" rot="R180" smashed="yes">
+<attribute name="CATEGORY" value="Opto-Electronic" x="111.9517" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="COLOR" value="" x="111.9517" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value="" x="111.9517" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="" x="111.9517" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="" x="111.9517" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="OPERATING_TEMP" value="" x="111.9517" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="PART_STATUS" value="" x="111.9517" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="ROHS_COMPLIANT" value="" x="111.9517" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="SERIES" value="" x="111.9517" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="SUB-CATEGORY" value="LED" x="111.9517" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="THERMALLOSS" value="" x="111.9517" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="TYPE" value="" x="111.9517" y="21.67" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" value="LED_BLUE" x="111.9517" y="21.67" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R3" library="Tinkercad" package="RESAD1016W63L850D250B" package3d_urn="urn:adsk.eagle:package:31513020/2" value="1k" x="110.8627" y="8.97" rot="R90" smashed="yes"/>
+<element name="R3" library="Tinkercad" package="RESAD1016W63L850D250B" package3d_urn="urn:adsk.eagle:package:31513020/2" value="1k" x="110.6817" y="8.97" rot="R90" smashed="yes"/>
 </elements>
 <signals>
 <signal name="U1_D11">
@@ -395,9 +395,9 @@ design rules under a new name.
 <contactref element="R8" pad="2"/>
 <contactref element="U1" pad="D11"/>
 <contactref element="S4" pad="4"/>
-<wire x1="161.3833" y1="22.2288" x2="161.3833" y2="28.7312" width="0" layer="19" extent="1-1"/>
-<wire x1="161.3833" y1="22.2288" x2="161.6627" y2="14.05" width="0" layer="19" extent="1-1"/>
-<wire x1="44.075" y1="59.2011" x2="161.3833" y2="28.7312" width="0" layer="19" extent="1-1"/>
+<wire x1="161.2023" y1="22.2288" x2="161.2023" y2="28.7312" width="0" layer="19" extent="1-1"/>
+<wire x1="161.2023" y1="22.2288" x2="161.4817" y2="14.05" width="0" layer="19" extent="1-1"/>
+<wire x1="44.075" y1="59.2011" x2="161.2023" y2="28.7312" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="U1_GND">
 <contactref element="R1" pad="1"/>
@@ -413,15 +413,15 @@ design rules under a new name.
 <contactref element="R8" pad="1"/>
 <contactref element="PIEZO1" pad="2"/>
 <wire x1="50.425" y1="10.9411" x2="52.965" y2="10.9411" width="0" layer="19" extent="1-1"/>
-<wire x1="95.6227" y1="3.89" x2="52.965" y2="10.9411" width="0" layer="19" extent="1-1"/>
-<wire x1="95.6227" y1="3.89" x2="103.2427" y2="3.89" width="0" layer="19" extent="1-1"/>
-<wire x1="103.2427" y1="3.89" x2="110.8627" y2="3.89" width="0" layer="19" extent="1-1"/>
-<wire x1="110.8627" y1="3.89" x2="118.4827" y2="3.89" width="0" layer="19" extent="1-1"/>
-<wire x1="118.4827" y1="3.89" x2="131.1827" y2="3.89" width="0" layer="19" extent="1-1"/>
-<wire x1="131.1827" y1="3.89" x2="141.3427" y2="3.89" width="0" layer="19" extent="1-1"/>
-<wire x1="141.3427" y1="3.89" x2="151.5027" y2="3.89" width="0" layer="19" extent="1-1"/>
-<wire x1="151.5027" y1="3.89" x2="161.6627" y2="3.89" width="0" layer="19" extent="1-1"/>
-<wire x1="161.6627" y1="3.89" x2="166.7427" y2="19.44" width="0" layer="19" extent="1-1"/>
+<wire x1="95.4417" y1="3.89" x2="52.965" y2="10.9411" width="0" layer="19" extent="1-1"/>
+<wire x1="95.4417" y1="3.89" x2="103.0617" y2="3.89" width="0" layer="19" extent="1-1"/>
+<wire x1="103.0617" y1="3.89" x2="110.6817" y2="3.89" width="0" layer="19" extent="1-1"/>
+<wire x1="110.6817" y1="3.89" x2="118.3017" y2="3.89" width="0" layer="19" extent="1-1"/>
+<wire x1="118.3017" y1="3.89" x2="131.0017" y2="3.89" width="0" layer="19" extent="1-1"/>
+<wire x1="131.0017" y1="3.89" x2="141.1617" y2="3.89" width="0" layer="19" extent="1-1"/>
+<wire x1="141.1617" y1="3.89" x2="151.3217" y2="3.89" width="0" layer="19" extent="1-1"/>
+<wire x1="151.3217" y1="3.89" x2="161.4817" y2="3.89" width="0" layer="19" extent="1-1"/>
+<wire x1="161.4817" y1="3.89" x2="166.5617" y2="19.44" width="0" layer="19" extent="1-1"/>
 <wire x1="50.425" y1="10.9411" x2="36.455" y2="59.2011" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="U1_5V">
@@ -434,86 +434,86 @@ design rules under a new name.
 <contactref element="S3" pad="1"/>
 <contactref element="S2" pad="1"/>
 <contactref element="S1" pad="1"/>
-<wire x1="126.3821" y1="28.7312" x2="126.3821" y2="22.2288" width="0" layer="19" extent="1-1"/>
-<wire x1="126.3821" y1="28.7312" x2="136.5421" y2="28.7312" width="0" layer="19" extent="1-1"/>
-<wire x1="136.5421" y1="28.7312" x2="136.5421" y2="22.2288" width="0" layer="19" extent="1-1"/>
-<wire x1="136.5421" y1="28.7312" x2="146.7021" y2="28.7312" width="0" layer="19" extent="1-1"/>
-<wire x1="146.7021" y1="28.7312" x2="146.7021" y2="22.2288" width="0" layer="19" extent="1-1"/>
-<wire x1="146.7021" y1="28.7312" x2="156.8621" y2="28.7312" width="0" layer="19" extent="1-1"/>
-<wire x1="156.8621" y1="28.7312" x2="156.8621" y2="22.2288" width="0" layer="19" extent="1-1"/>
-<wire x1="47.885" y1="10.9411" x2="126.3821" y2="22.2288" width="0" layer="19" extent="1-1"/>
+<wire x1="126.2011" y1="28.7312" x2="126.2011" y2="22.2288" width="0" layer="19" extent="1-1"/>
+<wire x1="126.2011" y1="28.7312" x2="136.3611" y2="28.7312" width="0" layer="19" extent="1-1"/>
+<wire x1="136.3611" y1="28.7312" x2="136.3611" y2="22.2288" width="0" layer="19" extent="1-1"/>
+<wire x1="136.3611" y1="28.7312" x2="146.5211" y2="28.7312" width="0" layer="19" extent="1-1"/>
+<wire x1="146.5211" y1="28.7312" x2="146.5211" y2="22.2288" width="0" layer="19" extent="1-1"/>
+<wire x1="146.5211" y1="28.7312" x2="156.6811" y2="28.7312" width="0" layer="19" extent="1-1"/>
+<wire x1="156.6811" y1="28.7312" x2="156.6811" y2="22.2288" width="0" layer="19" extent="1-1"/>
+<wire x1="47.885" y1="10.9411" x2="126.2011" y2="22.2288" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="U1_D10">
 <contactref element="S3" pad="3"/>
 <contactref element="R7" pad="2"/>
 <contactref element="U1" pad="D10"/>
 <contactref element="S3" pad="4"/>
-<wire x1="151.2233" y1="22.2288" x2="151.2233" y2="28.7312" width="0" layer="19" extent="1-1"/>
-<wire x1="151.2233" y1="22.2288" x2="151.5027" y2="14.05" width="0" layer="19" extent="1-1"/>
-<wire x1="46.615" y1="59.2011" x2="151.2233" y2="28.7312" width="0" layer="19" extent="1-1"/>
+<wire x1="151.0423" y1="22.2288" x2="151.0423" y2="28.7312" width="0" layer="19" extent="1-1"/>
+<wire x1="151.0423" y1="22.2288" x2="151.3217" y2="14.05" width="0" layer="19" extent="1-1"/>
+<wire x1="46.615" y1="59.2011" x2="151.0423" y2="28.7312" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="U1_D9">
 <contactref element="S2" pad="3"/>
 <contactref element="R6" pad="2"/>
 <contactref element="U1" pad="D9"/>
 <contactref element="S2" pad="4"/>
-<wire x1="141.0633" y1="22.2288" x2="141.0633" y2="28.7312" width="0" layer="19" extent="1-1"/>
-<wire x1="141.0633" y1="22.2288" x2="141.3427" y2="14.05" width="0" layer="19" extent="1-1"/>
-<wire x1="49.155" y1="59.2011" x2="141.0633" y2="28.7312" width="0" layer="19" extent="1-1"/>
+<wire x1="140.8823" y1="22.2288" x2="140.8823" y2="28.7312" width="0" layer="19" extent="1-1"/>
+<wire x1="140.8823" y1="22.2288" x2="141.1617" y2="14.05" width="0" layer="19" extent="1-1"/>
+<wire x1="49.155" y1="59.2011" x2="140.8823" y2="28.7312" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="U1_D8">
 <contactref element="S1" pad="3"/>
 <contactref element="R5" pad="2"/>
 <contactref element="U1" pad="D8"/>
 <contactref element="S1" pad="4"/>
-<wire x1="130.9033" y1="22.2288" x2="130.9033" y2="28.7312" width="0" layer="19" extent="1-1"/>
-<wire x1="130.9033" y1="22.2288" x2="131.1827" y2="14.05" width="0" layer="19" extent="1-1"/>
-<wire x1="51.695" y1="59.2011" x2="130.9033" y2="28.7312" width="0" layer="19" extent="1-1"/>
+<wire x1="130.7223" y1="22.2288" x2="130.7223" y2="28.7312" width="0" layer="19" extent="1-1"/>
+<wire x1="130.7223" y1="22.2288" x2="131.0017" y2="14.05" width="0" layer="19" extent="1-1"/>
+<wire x1="51.695" y1="59.2011" x2="130.7223" y2="28.7312" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="D4_C">
 <contactref element="D4" pad="2"/>
 <contactref element="R4" pad="2"/>
-<wire x1="118.4827" y1="21.67" x2="118.4827" y2="14.05" width="0" layer="19" extent="1-1"/>
+<wire x1="118.3017" y1="21.67" x2="118.3017" y2="14.05" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="D2_C">
 <contactref element="D2" pad="2"/>
 <contactref element="R2" pad="2"/>
-<wire x1="103.2427" y1="21.67" x2="103.2427" y2="14.05" width="0" layer="19" extent="1-1"/>
+<wire x1="103.0617" y1="21.67" x2="103.0617" y2="14.05" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="U1_D5">
 <contactref element="D4" pad="1"/>
 <contactref element="U1" pad="D5"/>
-<wire x1="121.0227" y1="21.67" x2="60.585" y2="59.2011" width="0" layer="19" extent="1-1"/>
+<wire x1="120.8417" y1="21.67" x2="60.585" y2="59.2011" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="U1_D3">
 <contactref element="D2" pad="1"/>
 <contactref element="U1" pad="D3"/>
-<wire x1="105.7827" y1="21.67" x2="65.665" y2="59.2011" width="0" layer="19" extent="1-1"/>
+<wire x1="105.6017" y1="21.67" x2="65.665" y2="59.2011" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="U1_D7">
 <contactref element="PIEZO1" pad="1"/>
 <contactref element="U1" pad="D7"/>
-<wire x1="166.7427" y1="26.44" x2="55.505" y2="59.2011" width="0" layer="19" extent="1-1"/>
+<wire x1="166.5617" y1="26.44" x2="55.505" y2="59.2011" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="U1_D4">
 <contactref element="D3" pad="1"/>
 <contactref element="U1" pad="D4"/>
-<wire x1="113.4027" y1="21.67" x2="63.125" y2="59.2011" width="0" layer="19" extent="1-1"/>
+<wire x1="113.2217" y1="21.67" x2="63.125" y2="59.2011" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="U1_D2">
 <contactref element="D1" pad="1"/>
 <contactref element="U1" pad="D2"/>
-<wire x1="98.1627" y1="21.67" x2="68.205" y2="59.2011" width="0" layer="19" extent="1-1"/>
+<wire x1="97.9817" y1="21.67" x2="68.205" y2="59.2011" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="D1_C">
 <contactref element="D1" pad="2"/>
 <contactref element="R1" pad="2"/>
-<wire x1="95.6227" y1="21.67" x2="95.6227" y2="14.05" width="0" layer="19" extent="1-1"/>
+<wire x1="95.4417" y1="21.67" x2="95.4417" y2="14.05" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="D3_C">
 <contactref element="R3" pad="2"/>
 <contactref element="D3" pad="2"/>
-<wire x1="110.8627" y1="14.05" x2="110.8627" y2="21.67" width="0" layer="19" extent="1-1"/>
+<wire x1="110.6817" y1="14.05" x2="110.6817" y2="21.67" width="0" layer="19" extent="1-1"/>
 </signal>
 </signals>
 </board>
