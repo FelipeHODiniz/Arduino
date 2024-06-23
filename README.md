@@ -9,4 +9,4 @@ Link: https://www.tinkercad.com/things/cNmq7MzB8S4-projeto-arduino
 Quando iniciar as luzes vão piscar ao mesmo tempo indicando que esta começando, em seguida irá acender uma luz, se o usuário acertar o jogo continua, se não o jogo para.
 
 
-![Projeto Arduino ‐ Feito com o Clipchamp](https://github.com/FelipeHODiniz/Arduino/assets/161165613/8ca4fd92-af5f-4e0d-a6a4-b12fd74698b3)
+<img width="470" src="src/assets/Projeto Arduino ‐ Feito com o Clipchamp.gif">
