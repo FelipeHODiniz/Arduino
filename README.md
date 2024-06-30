@@ -8,3 +8,8 @@ Quando iniciar as luzes vão piscar ao mesmo tempo indicando que esta começando
 
 
 <img width="1080" src="src/assets/Projeto Arduino ‐ Feito com o Clipchamp.gif">
+
+
+Semáforo:
+
+Link: https://www.tinkercad.com/things/iIe1UQl68g4-projeto-arduino-final/editel?sharecode=TNuNHKS4Gm93J7_Qp95Ulf8s-XeMxUUuM_ljC41J01E
