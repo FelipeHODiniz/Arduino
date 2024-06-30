@@ -12,8 +12,12 @@ Quando iniciar as luzes vão piscar ao mesmo tempo indicando que esta começando
 
 Semáforo:
 
+Os leds representam um sinal de transito, quando o botao é apertado o sinal fica amarelo e dps vermelho, quando fica vermelho inicia uma contagem de 30 segundo e depois volta a ficar verde.
+
 Trabalho feito por mim e Augsusto Vitelli
 
 Link: https://www.tinkercad.com/things/iIe1UQl68g4-projeto-arduino-final/editel?sharecode=TNuNHKS4Gm93J7_Qp95Ulf8s-XeMxUUuM_ljC41J01E
 
 Link do video em funcionamento: https://youtube.com/shorts/gLFb2sz-j1Q?feature=share
+
+
